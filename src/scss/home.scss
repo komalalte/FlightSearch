@@ -1,0 +1,12 @@
+.home_main_wrapper {
+    background-color: aqua;
+  .home_container {
+    width: 100%;
+    display: flex;
+    .home_left_wrapper {
+      padding: 0 19%;
+    }
+    .home_right_wrapper {
+    }
+  }
+}
